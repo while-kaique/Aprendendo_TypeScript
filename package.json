@@ -1,0 +1,26 @@
+{
+  "name": "aprendendo_typescript",
+  "version": "1.0.0",
+  "description": "Um repositório para registro de aprendizado",
+  "main": "javascript.js",
+  "scripts": {
+    "start": "ts-node-dev --respawn --transpile-only index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/while-kaique/Aprendendo_TypeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/while-kaique/Aprendendo_TypeScript/issues"
+  },
+  "homepage": "https://github.com/while-kaique/Aprendendo_TypeScript#readme",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0"
+  }
+}
